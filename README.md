@@ -1,2 +1,2 @@
-# Msc-Project-
-A Statistical Analysis of Automobile Sector 
+A Statistical Analysis of the Automobile Sector
+This project is my Collage Project
